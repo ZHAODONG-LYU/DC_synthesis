@@ -14,3 +14,4 @@ the file frame can be set:
                     netlist/
             RTL_codes/
                     *.v
+and, libraries and some basic setup need to config before synthesis, tutorial should be find in software package or something.
