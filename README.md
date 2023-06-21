@@ -8,10 +8,10 @@ some records about synthesis tricks in design compiler
 the file frame can be set:
 
         submoduleY/
-                DC/
-                ...
-                report/
-        PreSim/
-                netlist/
-        RTL_codes/
-                *.v
+            DC/
+                    ...
+                    report/
+            PreSim/
+                    netlist/
+            RTL_codes/
+                    *.v
